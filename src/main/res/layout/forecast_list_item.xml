@@ -27,6 +27,7 @@
         android:text="Description"
         android:textSize="12sp" />
 
+
     <TextView
         android:id="@+id/name"
         android:layout_width="fill_parent"

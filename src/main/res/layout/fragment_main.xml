@@ -6,12 +6,10 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context=".MainActivity$PlaceholderFragment">
 
-
         <ListView
             android:id="@+id/emails_list_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
-
 
 
 </RelativeLayout>
