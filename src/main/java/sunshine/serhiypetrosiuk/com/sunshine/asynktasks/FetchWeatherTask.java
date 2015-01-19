@@ -18,8 +18,9 @@ public class FetchWeatherTask extends AsyncTask<Void, Void, Void> {
 
         // Will contain the JSON string
         String forecastJsonStr = null;
+//        String forecastJsonStr = null;
 
-        
+
         return null;
     }
 }
